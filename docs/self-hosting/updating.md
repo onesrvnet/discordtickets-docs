@@ -39,11 +39,11 @@ Alternatively, you can use [Watchtower](https://containrrr.dev/watchtower/) to d
 
 ## Standalone
 
-## HypeSrv
+## HypeServ
 
-Your HypeSrv installation of DiscordTickets (if done via the `Content Manager`) will automatically check for and perform updated on every (re-)start of your server.
+Your HypeServ installation of DiscordTickets (if done via the `Content Manager`) will automatically check for and perform updates on every (re-)start of your server.
 
-HypeSrv doesn't currently offer a first-party solution for backing up a database server.
+HypeServ doesn't currently offer a first-party solution for backing up a database server.
 Instead, please connect to the database with an SQL Client like HeidiSQL and export your database via such a tool.
 
 

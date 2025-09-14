@@ -1,24 +1,24 @@
 ---
-description: How to install Discord Tickets on HypeSrv
+description: How to install Discord Tickets on HypeServ
 ---
 
-# HypeSrv
+# HypeServ
 
 !!! warning
-	Due to sharing an IP address with other HypeSrv users (who may also be hosting a Discord bot),
+	Due to sharing an IP address with other HypeServ users (who may also be hosting a Discord bot),
 	you are more likely to encounter rate limits. It should be fine for most use-cases. You can request a dedicated IP-Address for your bot with our support team if you encounter issues.
 
 
 ## Installation
 
-After purchasing your [Discord Bot Server](https://hypesrv.net/en/discord-bot-hosting?utm_source=discordtickets-docs), click on `Content Manager` in your Server Dashboard, then select `Discord Tickets Bot` and hit install.
+After purchasing your [Discord Bot Server](https://hypeserv.com/en/discord-bot-hosting?utm_source=discordtickets-docs), click on `Content Manager` in your Server Dashboard, then select `Discord Tickets Bot` and hit install.
 
 ![Screenshot](/img/hypesrv-1.png)
 
 ![Screenshot](/img/hypesrv-2.png)
 
 !!! warning
-    Installing Discord Tickets via the HypeSrv Content Manager will completely WIPE/DELETE all your server-files!
+    Installing Discord Tickets via the HypeServ Content Manager will completely WIPE/DELETE all your server-files!
 
 ![Screenshot](/img/hypesrv-3.png)
 
